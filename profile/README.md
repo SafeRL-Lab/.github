@@ -1,7 +1,4 @@
 
-
-
-
 ## News
 
 * 🔥🔥🔥 **\[May 19, 2025]** We released **OpenRBench**, a benchmark for evaluating massive multimodal understanding and reasoning in open environments. Code, dataset, and leaderboard are available at: [https://open-space-reasoning.github.io](https://open-space-reasoning.github.io)
