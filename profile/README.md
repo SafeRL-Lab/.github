@@ -1,5 +1,5 @@
 
-## News
+## Recent News
 
 * 🔥🔥🔥 **\[May 19, 2025]** We released **[OpenRBench](https://github.com/SafeRL-Lab/OpenRBench)**, a benchmark for evaluating massive multimodal understanding and reasoning in open space. Code, dataset, and leaderboard are available at: [https://open-space-reasoning.github.io](https://open-space-reasoning.github.io)
 
