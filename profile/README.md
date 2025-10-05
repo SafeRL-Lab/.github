@@ -12,7 +12,7 @@
 
 * 🔭 We focus on the theory and practice of machine learning, with applications to robotics and foundation models.
 
-* 🌱 We host workshops and seminars on safe reinforcement learning. Researchers and students interested in safe RL are welcome to join! Recordings are available on the [AI Agent Research YouTube Channel](https://www.youtube.com/@ai-agent-research). For more information, visit the [Agentic AI Frontier Seminar](https://agentic-ai-frontier-seminar.github.io/), the [Safe RL Seminar Homepage](https://sites.google.com/view/saferl-seminar/home), and the [Safe RL Workshop Homepage](https://saferl.online/).
+* 🌱 We host workshops and seminars on safe AI and robot learning. Researchers and students interested in safe AI and robot learning are welcome to join! Recordings are available on the [AI Agent Research YouTube Channel](https://www.youtube.com/@ai-agent-research). For more information, visit the [Agentic AI Frontier Seminar](https://agentic-ai-frontier-seminar.github.io/), the [Safe RL Seminar Homepage](https://sites.google.com/view/saferl-seminar/home), and the [Safe RL Workshop Homepage](https://saferl.online/).
 
 
 <!--<div align=center>
