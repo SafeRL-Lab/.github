@@ -1,4 +1,5 @@
-## Welcome to the Safe AI and Robot Learning (SAIL) Lab! 👋 
+
+<h1 align="center">Welcome to the Safe AI and Robot Learning (SAIL) Lab! 👋 </h1>
 
 <p align="center"> <br> <img src="https://img.shields.io/github/stars/SafeRL-Lab?style=social"/> &nbsp; <img src="https://img.shields.io/github/followers/SafeRL-Lab?style=social"/> </p>
 
