@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Welcome to the Safe AI and Robot Learning (SAIL) Lab! 👋 </h1>
 
 <p align="center"> <br> <img src="https://img.shields.io/github/stars/SafeRL-Lab?style=social"/> &nbsp; <img src="https://img.shields.io/github/followers/SafeRL-Lab?style=social"/> </p>
@@ -16,6 +17,7 @@
 <div align=center>
 <center style="color:#000000;text-decoration:underline"> </center>
  </div>
+ <img src="https://github.com/SafeRL-Lab/.github/blob/main/profile/image/berkeley_logo.svg" align="right" width="100"> 
  -->
 
 ## Recent News
