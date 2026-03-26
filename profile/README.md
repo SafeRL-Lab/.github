@@ -32,11 +32,11 @@
 * 🔥🔥🔥 **\[May 07, 2025]** We released **[RLBenchNet](https://github.com/SafeRL-Lab/BenchNetRL)**, a systematic benchmarking suite for evaluating neural network architectures in reinforcement learning. Code and Paper are available at: [https://github.com/SafeRL-Lab/BenchNetRL](https://github.com/SafeRL-Lab/BenchNetRL) and [https://arxiv.org/pdf/2505.15040](https://arxiv.org/pdf/2505.15040?)
 
 
-<div align="center">
+<!-- <div align="center">
  <a href="https://github.com/SafeRL-Lab/AgenticPay">
     <img src="https://github.com/SafeRL-Lab/AgenticPay/blob/main/rm_img/Weixin%20Image_20260323113455_1763_6.jpg" alt="Logo" width="280"> 
   </a>
-</div>
+</div> -->
 
 
 
