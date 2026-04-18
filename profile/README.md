@@ -25,7 +25,7 @@
 <center style="color:#000000;text-decoration:underline"> </center>
  </div>
  <img src="https://github.com/SafeRL-Lab/.github/blob/main/profile/image/berkeley_logo.svg" align="right" width="100"> 
- -->
+
 
 ## Recent News
 
@@ -34,7 +34,7 @@
 * 🔥🔥🔥 **\[May 19, 2025]** We released **[M4R](https://github.com/SafeRL-Lab/AccidentBench)**, a benchmark for evaluating massive multimodal understanding and reasoning in open space. Paper, code, dataset, and leaderboard are available at: [https://accident-bench.github.io/](https://accident-bench.github.io/) and [https://arxiv.org/pdf/2509.26636](https://arxiv.org/pdf/2509.26636)
 
 * 🔥🔥🔥 **\[May 07, 2025]** We released **[RLBenchNet](https://github.com/SafeRL-Lab/BenchNetRL)**, a systematic benchmarking suite for evaluating neural network architectures in reinforcement learning. Code and Paper are available at: [https://github.com/SafeRL-Lab/BenchNetRL](https://github.com/SafeRL-Lab/BenchNetRL) and [https://arxiv.org/pdf/2505.15040](https://arxiv.org/pdf/2505.15040?)
-
+ -->
 
 <!-- <div align="center">
  <a href="https://github.com/SafeRL-Lab/AgenticPay">
