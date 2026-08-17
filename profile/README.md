@@ -1,9 +1,9 @@
 
 
-<h1 align="center">Welcome to the Safe AI and Robot Learning (SAIL) Lab at UC Berkeley! 👋 </h1>
+<h1 align="center">Welcome to the Safe AI and Robot Learning (SAIL) Lab at SJTU! 👋 </h1>
 
 <div align=center>
- <img src="https://github.com/SafeRL-Lab/.github/blob/main/profile/image/berkeley_logo.svg" width="100"/> 
+ <img src="https://github.com/SafeRL-Lab/.github/blob/main/profile/image/SJTU-logo.svg" width="100"/> 
  </div>
 
 <!-- ## Welcome to the Safe AI and Robot Learning (SAIL) Lab <img src="https://github.com/SafeRL-Lab/.github/blob/main/profile/image/berkeley_logo.svg" align="right" width="100"> <br/> at UC Berkeley! 👋 -->
