@@ -14,7 +14,7 @@
 
 * 🔭 We focus on the practice and theory of machine learning, with applications to foundation models and robotics. Our goal is to develop safe, reliable, and efficient systems that address pressing real-world challenges and drive impactful applications across diverse domains.
 
-* 🌱 We host workshops and seminars on agentic AI, safe AI, and robot learning. Researchers and students interested in safe AI and robot learning are welcome to join! Recordings are available on the [AI Agent Research YouTube Channel](https://www.youtube.com/@ai-agent-research). For more information, visit the [Agentic AI Frontier Seminar](https://agentic-ai-frontier-seminar.github.io/), the [Safe RL Seminar Homepage](https://sites.google.com/view/saferl-seminar/home), and the [Safe RL Workshop Homepage](https://saferl.online/).
+* 🌱 We host workshops and seminars on agentic AI, safe AI, and robot learning. Researchers and students interested in safe AI and robot learning are welcome to join! Recordings are available on the [AI Agent Research YouTube Channel](https://www.youtube.com/@ai-agent-research). For more information, visit the [Agentic AI Frontier Seminar](https://agentic-ai-frontier-seminar.github.io/), the [Safe RL Seminar Homepage](https://sites.google.com/view/saferl-seminar/home), and the [Safe RL Workshop Homepage](https://saferl2022.github.io/workshop/2022/).
 
 
 
